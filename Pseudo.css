@@ -1,0 +1,22 @@
+.Button-1:hover {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Button-3:hover {
+  font-size: 30px;
+  background-color: green;
+}
+
+.Button-5:hover {
+  font-size: 30px;
+}
+
+.Button-5:active{
+  background-color: yellow;
+}
+
+.Button-2,
+.Button-4:disabled {
+  background-color: grey;
+}
